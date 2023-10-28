@@ -1,0 +1,62 @@
+html
+{
+ scroll-behavior: smooth;
+}
+body
+{
+  scroll-behavior: smooth;
+}
+.content
+{
+    height: 400px;
+    margin-top: -100px;
+}
+.content1
+{
+    color: palevioletred;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    margin-left: 10px;
+    text-align: center;
+   
+}
+.sub
+{
+    font-size: 25px;
+    font-size: inter;
+    color: white;
+    text-align: center;
+}
+.content2
+{
+    color: black;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    margin-left: 10px;
+    text-align: center;
+}
+.card
+{
+    margin-left: 50px;
+}
+.sub4
+{
+    font-size: 20px;
+    font-size: inter;
+    color: black;
+    text-align: justify;
+
+}
+.hello
+{
+    color: indianred;
+}
+.image
+{
+    height: 300px;
+    margin-top: -95px;
+}
+::-webkit-scrollbar
+{
+    display: none;
+}
